@@ -1,0 +1,14 @@
+apex==0.1
+colorama==0.4.4
+imageio==2.18.0
+matplotlib==3.4.3
+numpy==1.20.3
+python_dateutil==2.8.2
+scikit_image==0.19.2
+scipy==1.7.3
+six==1.15.0
+skimage==0.0
+tensorflow==2.7.0
+torch==1.10.1
+torchvision==0.11.2
+tqdm==4.64.0
