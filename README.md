@@ -1,4 +1,4 @@
-# Balanced Training for Sparse GANs
+# Balanced Training for Sparse GANs [[Paper](https://arxiv.org/abs/2302.14670)]
 
 Yite Wang*, Jing Wu*, Naira Hovakimyan, Ruoyu Sun
 
@@ -23,13 +23,20 @@ The code is tested using Redhat system with python 3.9. NVIDIA V100 and NVIDIA R
 Please see the scripts in `scripts` folder to run our code. For more information, please refer to `main.py` and `sparselearning/core.py`.
 
 For example, to run the baseline: 
- ```
+
+```
 chmod +x scripts/baseline1.sh
- scripts/baseline1.sh
- ```
+scripts/baseline1.sh
+```
 
 ### Acknowlegement:
 
 Our code is mainly based on :
 
 [ITOP](https://github.com/Shiweiliuiiiiiii/In-Time-Over-Parameterization) and [GAN ticket](https://github.com/VITA-Group/GAN-LTH).
+
+### Contact:
+
+Yite Wang (yitew2@illinois.edu)
+
+Jing Wu (jingwu6@illinois.edu)
